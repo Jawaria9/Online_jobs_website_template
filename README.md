@@ -66,7 +66,7 @@ Freelancer is a marketplace where employers and employees are able to find each 
 ## Website Demo
 
 <p align="center">
-  <img width="800" height="400" src="https://github.com/Jawaria9/course_offering_website_template/blob/main/course_offering_website_vedio.gif">
+  <img width="800" height="400" src="https://github.com/Jawaria9/freelancer_website_template/blob/main/recording.gif">
 </p>
 
 

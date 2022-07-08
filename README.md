@@ -19,29 +19,21 @@
 ## Features
 
 -   navbar
--   input form for subscription
--   carosel with multiple cars displaying different courses
--   input form for newsletter
+-   log in form/Sign up form
+-   sidebar
+-   job post area
 -   footer
     
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-  This website comprises of many sections which include navbar, input form for subscription, carosel with multiple cars displaying different courses,     input form for newsletter ,footer.
-
-
-
-
-
-       
-
-
-
+  This website comprises of many sections which include navbar, login/signup, sidebar , job post area ,footer.
 
 
 ## Built With
  
+   React
    Bootstrap 5
    Html 5
    Css
@@ -51,17 +43,24 @@
 
 ## Usage
 
-it improves your the coding skills.It Helps in deep understanding of bootstrap classes and styling with css.
+it improves your the coding skills.It Helps in deep understanding of React,state hook ,bootstrap classes and styling with css.
 
 ## Working 
 
-  Open with live server in vscode
+ open terminal and get into folder type npm start
+
+## Description
+
+Freelancer is a marketplace where employers and employees are able to find each other.This site allow employers to post work for site members who place bids in a  competitive tender process
 
 
 ## Includes Files
-1. index.html file
+
+1. js file
 2. jpeg files
 3. png files
+4. Css file
+ 
 
 
 ## Website Demo
@@ -92,7 +91,7 @@ You may also see any lint errors in the console.
 
 <!-- ROADMAP -->
 ## Roadmap
-See the [open issues](https://github.com/javeriashahzadi/pacman-game-in-cpp--Fast-Nuces/issues) for a list of proposed features (and known issues).
+See the [open issues] for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing

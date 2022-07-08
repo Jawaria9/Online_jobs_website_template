@@ -1,0 +1,7 @@
+.decoration{
+    text-decoration: none;
+     color: rgb(84, 80, 80);
+}
+nav{
+    --bs-breadcrumb-divider: '>';
+}

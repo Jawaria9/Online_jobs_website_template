@@ -1,0 +1,65 @@
+.navid{
+    margin: 10px;
+    margin-top: 15px;    
+}
+.navid2{
+    text-decoration: none;
+    color: black;
+}
+.nav2{
+    margin-top: -5px;
+    height: 75px;
+}
+.mar{
+margin-left: 600px;  
+}
+
+@media  screen and (max-width: 1400px)
+ {
+.mar{
+    margin-left: 500px;
+}
+ }
+
+ @media  screen and (max-width: 1200px)
+ {
+.mar{
+    margin-left: 330px;
+}
+
+}
+ @media  screen and (max-width: 992px)
+ {
+    .mar{
+        margin-left: 100px;
+    }
+
+ }
+ @media  screen and (max-width: 768px )
+ {
+    .mar{
+        margin-left: 120px;
+    }
+#n1{
+    display: none;
+}
+}
+
+@media  screen and (max-width: 540px)
+{
+   .mar{
+       margin-left: 0px;
+   }
+
+}
+@media  screen and (max-width: 390px)
+{
+   .mar{
+       margin-left: 0px;
+   }
+   .navid{
+       margin-left: 3px;
+       margin-right: 3px;
+   }
+
+}

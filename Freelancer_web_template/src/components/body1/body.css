@@ -1,0 +1,114 @@
+.drop{
+    background-color: white;
+    height: 40px;
+    width: 180px;
+    
+}
+.body1{
+    margin-left: 25px;
+    background-color: white;
+}
+.part1{
+    padding: 20px;
+}
+@media screen and (max-width: 960px) {
+    .body2{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 992px) {
+
+    .drop{
+        width: 120px;
+    }
+}
+#color{
+    color: #aaa7a7 ;
+}
+.job12{
+    display: flex;
+}
+#mg{
+    margin-left: 10px;
+}
+#link{
+    color: rgb(97, 97, 236);
+    font-size: medium;
+    margin-left: 10px;
+    
+}
+#btst{
+    background-color: green;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+   
+}
+.jjb1{
+    padding: 20px;
+}
+.jjb1:hover{
+       background-color:#f4f4f4 ;
+      
+}
+#md1:hover{
+    background-color: #f4f4f4 ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#container{
+    padding-top: 20px;
+  }
+  #pagination{
+    display: flex;
+    justify-content: center;
+  }
+  .blocks{
+    width: 40px;
+    line-height: 40px;
+    text-align: center;
+    border: 1px solid #DDDDDD;
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+  }
+  .blocks:not(:first-child){
+    margin-left: 5px;
+  }
+  .blocks:first-child{
+    border-radius: 10px 0 0 10px;
+  }
+  .blocks:last-child{
+    border-radius: 0 10px 10px 0;
+  }
+  .blocks:hover{
+    background-color: #DDDDDD;
+  }
+  #pagination a.active{
+    background-color: #DDDDDD;
+  }

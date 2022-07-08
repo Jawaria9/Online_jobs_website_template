@@ -1,0 +1,28 @@
+h2{
+    color: white;
+}
+.btn1{
+    background-color: #e13174; color: white;
+}
+.btn2{
+    margin-left: 10px;
+}
+.head2{
+    background-color: #007fed;
+    height: 100px;
+}
+#hd2{
+    margin-top: 30px;
+}
+
+@media screen and (max-width:990px) {
+    .head2{
+        height: 200px;
+    }
+    .job1{
+        display: flex;
+        justify-content: center;
+        margin-bottom: 20px;
+    }
+
+}

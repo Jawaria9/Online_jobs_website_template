@@ -1,0 +1,11 @@
+p{
+    width: -moz-fit-content;
+    width: fit-content;
+    height: 20px;
+    border-top: black;
+    padding: 10px;
+
+}
+p:hover{
+    background-color: #b8b8b8;
+}

@@ -1,0 +1,15 @@
+.container-fluid{
+    background-color: #161e2c;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+     font-size: small;
+}
+li{
+    list-style: none;
+}
+hr{
+    color: white;
+}
